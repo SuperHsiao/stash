@@ -1,0 +1,27 @@
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 macOS Finder 自定义设置
+.AppleDouble
+.AppleDesktop
+
+# 忽略 macOS 缩略图和图标文件
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# 忽略以 .json 结尾的文件
+*.json# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 macOS Finder 自定义设置
+.AppleDouble
+.AppleDesktop
+
+# 忽略 macOS 缩略图和图标文件
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
